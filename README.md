@@ -25,7 +25,7 @@ Enables float-based aiming sensitivity in REPO beyond built-in integer limits.
 ---
 ### 🧠 AI & Algorithms
 
-**[PuzzleAI](https://github.com/M1llerF/PuzzleAI)**  
+**[RL_Maze_Explorer](https://github.com/M1llerF/RL_Maze_Explorer)**  
 A Q-learning agent designed to solve customizable mazes and puzzles. Built with a simple UI and tunable policy learning.
 
 ---
