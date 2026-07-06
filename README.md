@@ -1,7 +1,7 @@
-## 🔧 Projects
+## Projects
 
 
-### 📚 Coursework Highlights
+### Coursework Highlights
 
 **[priority_queue_comparison](https://github.com/M1llerF/priority_queue_comparison)**  
 A performance and structural analysis of Fibonacci vs. Binary Heaps, with benchmarks and Dijkstra’s algorithm. Includes a full research paper.
@@ -11,7 +11,7 @@ A basic interpreter for a Racket-like language, written for a language design co
 
 ---
 
-### 🎮 REPO Game Mods
+### REPO Game Mods
 
 **[REPO-DropLaser-PrecisionMod](https://github.com/M1llerF/REPO-DropLaser-PrecisionMod)**  
 Adds a visible laser to dropped objects based on physics prediction. Multiplayer compatible.
@@ -23,14 +23,14 @@ Recolors the grab beam dynamically based on object weight, strain, and movement.
 Enables float-based aiming sensitivity in REPO beyond built-in integer limits.
 
 ---
-### 🧠 AI & Algorithms
+### AI & Algorithms
 
 **[RL_Maze_Explorer](https://github.com/M1llerF/RL_Maze_Explorer)**  
 A Q-learning agent designed to solve customizable mazes and puzzles. Built with a simple UI and tunable policy learning.
 
 ---
 
-## 🧰 Tools & Languages
+## Tools & Languages
 
 These are some of the key tools and languages I’ve worked with extensively or showcased in the listed projects:
 
